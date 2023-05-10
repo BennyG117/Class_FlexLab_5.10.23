@@ -1,0 +1,90 @@
+.container {
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    margin: 0 auto;
+    border: 10px solid black;
+    padding: 10px;
+}
+
+.top-half {
+    height: 375px;
+    width: 500px;
+    background-color: red;
+    display: flex;
+    border-bottom: 10px solid black;
+}
+
+.left-rectangle {
+    height: 375px;
+    width: 125px;
+    /* background-color: white; */
+    border-right:10px solid black;
+}
+
+.top-white {
+    height: 177.5px;
+    width: 125px;
+    border-bottom: 10px solid black;
+    background-color: white;
+}
+
+.bot-white {
+    height: 187.5px;
+    width: 125px;
+    background-color: white;
+    /* border-bottom: 10px solid black; */
+
+}
+
+.red-square {
+    height: 375px;
+    width: 375px;
+    /* border-bottom: 10px solid black; */
+
+}
+
+.bot-half {
+    display: flex;
+    height: 125px;
+    width: 500px;
+    /* border-top: 10px solid black; */
+}
+
+.left-blue {
+    height: 115px;
+    width: 145px;
+    background-color: blue;
+    border-right: 10px solid black;
+    
+}
+
+.white-rectangle {
+    height: 115px;
+    width: 350px;
+    background-color: white;
+    border-right: 10px solid black;
+}
+
+.right-rectangle {
+    height: 125px;
+    width: 62.5px;
+    /* border-left: 10px solid black;
+    border-top: 10px solid black; */
+
+}
+
+.small-white {
+    background-color: white;
+    height: 52.5px;
+    width: 62.5px;
+    border-bottom: 10px solid black;
+    
+
+}
+
+.small-yellow {
+    height: 52.5px;
+    width: 62.5px;
+    background-color: yellow;
+}
